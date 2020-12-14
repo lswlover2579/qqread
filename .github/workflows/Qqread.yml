@@ -1,5 +1,5 @@
 name: 企鹅阅读
-version: 1.2.4
+#version: 1.2.4
 skip_check_config_version: false # 默认不跳过配置文件的版本检测
 
 # 消息推送
